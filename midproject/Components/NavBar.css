@@ -1,0 +1,17 @@
+.navBar {
+    width: 1174px;
+    height: 48px;
+    gap: 141px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #868686;
+
+}
+.navBar h2 {
+    color: white;
+
+}
+.navBar p {
+    margin: 0;
+}
